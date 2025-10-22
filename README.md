@@ -2,9 +2,9 @@
 <img width="949" height="939" alt="0000" src="https://github.com/user-attachments/assets/1691465b-a433-4d8a-91f6-0f92145dc184" />
 
 ## Download and Implementation of EnhancES into QGIS 
-The EnhancES is stored as a ZIP-file (Figure 0.1). 
+The EnhancES is stored as a ZIP-file; click on "Code" (Figure 0.1). 
  
- 
+ ![0001](https://github.com/user-attachments/assets/9aa6facd-a76e-449a-9d69-3e9d8e06ee81)
 
 Figure 0.1 How to download the toolbox
 
