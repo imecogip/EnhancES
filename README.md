@@ -84,3 +84,7 @@ Chiara-Charlotte Iodice-Kraft (ILS);
 Luis Inostroza, Dr. habil. (Mendel University in Brno);
 
 Prof. Dr. Harald Zepp (RUB).
+
+EnhanceES is being developed in IMECOGIP, a project with funding from the German Federal Ministry of Research, Technology and Space
+(04/2019-6/2027; FKZ 01LE1805A-B2)
+
