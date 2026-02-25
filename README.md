@@ -69,11 +69,13 @@ Research grant 01LE1805A/B1
 
 ## Authors of this and previous editions
 
+Lina Einenkel, MSc (RUB);
+
 Malte Bührs, MSc (contribute: 2019-2025);
 
 Christin Busch, MSc (contribute: 2021-2024);
 
-Dr. Matthias Falke (RUB);
+Dr. Matthias Falke (contribute: 2019-2025);
 
 Lars Gruenhagen, MSc (RUB);
 
@@ -81,4 +83,4 @@ Chiara-Charlotte Iodice-Kraft (ILS);
 
 Luis Inostroza, Dr. habil. (Mendel University in Brno);
 
-Prof. Dr. Harald Zepp (RUB)
+Prof. Dr. Harald Zepp (RUB).
