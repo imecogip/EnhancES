@@ -3,8 +3,9 @@
 ## Download and Implementation of EnhancES into QGIS 
 
 The EnhancES is stored as a ZIP-file; click on "Code" (Figure 0.1). 
- 
- ![0001](https://github.com/user-attachments/assets/9aa6facd-a76e-449a-9d69-3e9d8e06ee81)
+<p align="center">
+<img width="4344" height="2267" alt="0000_Header_N_F" src="https://github.com/user-attachments/assets/f87338d8-b179-425d-8233-25ac5e6821ec" />
+
 
 Figure 0.1 How to download the toolbox
 
@@ -18,7 +19,7 @@ https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-82
 
 Each model package contains the model(s) itself (MODEL3) and already predefined values and/or important predefined datasets, which are mandatory for a successful usage (Figure 2.2). Layer style files (QML) are used to visualize the output results of models and can be adapted or replaced by user`s needs. EnhancES comes with free to use sample data for testing. 
 <p align="center">
- <img width="490" height="325" alt="0002" src="https://github.com/user-attachments/assets/22bb2e00-1ced-46a5-acf5-c63a1a5a6359" />
+<img width="492" height="327" alt="0002_F" src="https://github.com/user-attachments/assets/8082050c-d8a7-4917-b1a9-12350f64057a" />
 
 Figure 0.2 Components of each model package
 
@@ -27,7 +28,7 @@ Currently, in development stage, EnhancES is not available as an on-demand plugi
 By now, the EnhancES models need to be integrated into QGIS to be used properly. To ease this process the toolbox comes with a start file, where all models and necessary data is already stored inside. For convenience, we promote using the available start file. Inside the start file you find EnhancES inside the Processing Toolbox pane (Figure 2.3). 
 
 <p align="center"> 
- <img width="257" height="330" alt="0003" src="https://github.com/user-attachments/assets/dd225f74-bac1-4fba-b37d-eb870ed056dd" />
+<img width="259" height="332" alt="0003_F" src="https://github.com/user-attachments/assets/06d667e2-eb1a-462b-b788-7c65a2ff16ee" />
 
 Figure 0.3 Structure of the EnhancES Toolbox
 
@@ -84,6 +85,9 @@ Chiara-Charlotte Iodice-Kraft (ILS);
 Luis Inostroza, Dr. habil. (Mendel University in Brno);
 
 Prof. Dr. Harald Zepp (RUB).
+
+<img width="1323" height="160" alt="0000__N_Foot" src="https://github.com/user-attachments/assets/231a4039-90c5-4527-bb5f-a71fc4216841" />
+
 
 EnhanceES is being developed in IMECOGIP, a project with funding from the German Federal Ministry of Research, Technology and Space
 (04/2019-6/2027; FKZ 01LE1805A-B2)
