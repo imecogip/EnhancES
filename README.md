@@ -1,5 +1,6 @@
+<img width="869" height="885" alt="0000__N" src="https://github.com/user-attachments/assets/c41e8153-b34a-4aa6-9a88-8ddc4308e7c7" />
 
-## Download and Implementation of EnhancES into QGIS <img width="869" height="885" alt="0000__N" src="https://github.com/user-attachments/assets/c41e8153-b34a-4aa6-9a88-8ddc4308e7c7" />
+## Download and Implementation of EnhancES into QGIS 
 
 The EnhancES is stored as a ZIP-file; click on "Code" (Figure 0.1). 
  
