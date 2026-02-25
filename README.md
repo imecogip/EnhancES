@@ -86,9 +86,12 @@ Luis Inostroza, Dr. habil. (Mendel University in Brno);
 
 Prof. Dr. Harald Zepp (RUB).
 
+<p align="center"> 
 <img width="1323" height="160" alt="0000__N_Foot" src="https://github.com/user-attachments/assets/231a4039-90c5-4527-bb5f-a71fc4216841" />
-
-
+<p align="center"> 
 EnhanceES is being developed in IMECOGIP, a project with funding from the German Federal Ministry of Research, Technology and Space
+
+<p align="center"> 
 (04/2019-6/2027; FKZ 01LE1805A-B2)
+
 
