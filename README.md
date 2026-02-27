@@ -1,4 +1,4 @@
-<img width="864" height="886" alt="0000__N_Foot" src="https://github.com/user-attachments/assets/eaaf9164-bc60-4d7d-aa99-0790d62b9424" />
+<img width="857" height="885" alt="0000__N_Foot" src="https://github.com/user-attachments/assets/39854f0f-5e90-4d44-8d67-27ed2e5039c6" />
 
 ## Download and Implementation of EnhancES into QGIS 
 
