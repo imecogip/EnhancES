@@ -4,7 +4,7 @@
 
 The EnhancES is stored as a ZIP-file; click on "Code" (Figure 0.1). 
 <p align="center">
-<img width="4344" height="2267" alt="0000_Header_N_F" src="https://github.com/user-attachments/assets/f87338d8-b179-425d-8233-25ac5e6821ec" />
+<img width="4344" height="2157" alt="0000_Header_N3_F" src="https://github.com/user-attachments/assets/dec5e672-dd73-46e9-a13d-a887a37ebc81" />
 
 
 Figure 0.1 How to download the toolbox
