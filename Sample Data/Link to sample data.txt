@@ -1,6 +1,7 @@
 Download link to sample data as a ZIP-file:
-https://osf.io/download/2ea6w/
+https://storage.googleapis.com/cos-osf-prod-files-de-1/375d5e0b33e00d70efc745fb55ff72e4446beb8d9746a8720936c08fab7a1a20?response-content-disposition=attachment%3B%20filename%3D%22Data.zip%22%3B%20filename%2A%3DUTF-8%27%27Data.zip&GoogleAccessId=files-de-1%40cos-osf-prod.iam.gserviceaccount.com&Expires=1772548438&Signature=XYO%2FaSgwTIN7gBjvpwoWHpcO6cA0m9q%2FTee1c5pPHwO%2Fh5p6lFX9Z1IcuAZiMkwsLRH6TUgc2efU%2Fs2sE4%2FZIxJyh61aA0BnpbRiB2AUP8GU9GCbuQCbUCybKyTg1sf9RoA8bcAe8KlY4MMDRni%2FgqFubUI4TvKkijCiHjhApTqRHRP66Q1cfKTwZblQqkbxbYbmVfSZc84zxgwu1iGckGtYqyqh8VMzgaB3craw4bOxRc9iR0Jr3iYRsjPzFYiImw%2BU9cpzOOPfy9JImvmIF1C0b9SNm8WY%2F1f19j%2F1gA9H2FXZ8HV7PIQ%2FX46jWsqJ%2B%2B0kLMaiop%2B48XfS6cbPKA%3D%3D
 
 https://osf.io/grvbs/
 DOI 10.17605/OSF.IO/GRVBS
+
 
