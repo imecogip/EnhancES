@@ -63,9 +63,9 @@ Universitätsstr. 150
 imecogip@rub.de
 
 This is a product of IMECOGIP,
-funded by the German Federal Ministry of Education and Research (BMBF)
-within the funding priority SURE (Sustainable Urban Regions).
-Research grant 01LE1805A/B1
+funded by the German Federal Ministry of Research, Technology and Space (BMFTR) <br>
+within the funding initiative SURE (Sustainable Urban Regions). <br>
+Research grant 01LE1805A-B2
 
 
 ## Authors of this and previous editions
