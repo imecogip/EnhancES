@@ -1,5 +1,17 @@
 <img width="857" height="885" alt="0000__N_Foot" src="https://github.com/user-attachments/assets/39854f0f-5e90-4d44-8d67-27ed2e5039c6" />
 
+
+#
+
+
+# Download of EnhancES Flyer and Brochüre (German):
+
+[Flyer_EnhancES-2025_05_08.pdf](https://github.com/user-attachments/files/27522162/Flyer_EnhancES-2025_05_08.pdf)
+
+
+[Broschüre-EnhancES-2026_05_08.pdf](https://github.com/user-attachments/files/27521983/Broschure-EnhancES-2026_05_08.pdf)
+
+
 ## Download and Implementation of EnhancES into QGIS 
 
 The EnhancES is stored as a ZIP-file; click on "Code" (Figure 0.1). 
