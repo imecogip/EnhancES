@@ -4,7 +4,7 @@
 #
 
 
-# Download of EnhancES Flyer and Brochüre (German)
+# Download of EnhancES Flyer and Brochure (German)
 
 [Flyer_EnhancES-2025_05_08.pdf](https://github.com/user-attachments/files/27522162/Flyer_EnhancES-2025_05_08.pdf)
 
