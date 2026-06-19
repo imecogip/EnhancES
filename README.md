@@ -4,15 +4,18 @@
 #
 
 
-# Download of EnhancES Flyer and Brochure (German)
+# Download of EnhancES Brochure:
+
+[Broschüre-neu-English_single-p-2026_06_10_LG_HZ_LE-HZ.pdf](https://github.com/user-attachments/files/29136666/Broschure-neu-English_single-p-2026_06_10_LG_HZ_LE-HZ.pdf)
+
+# Download of EnhancES Flyer and Brochure (German):
 
 [Flyer_EnhancES-2025_05_08.pdf](https://github.com/user-attachments/files/27522162/Flyer_EnhancES-2025_05_08.pdf)
 
+[Broschüre-EnhancES-2026_05_08__2.pdf](https://github.com/user-attachments/files/29136673/Broschure-EnhancES-2026_05_08__2.pdf)
 
-[Broschüre-EnhancES-2026_05_08.pdf](https://github.com/user-attachments/files/27521983/Broschure-EnhancES-2026_05_08.pdf)
 
-
-## Download and Implementation of EnhancES into QGIS 
+# Download and Implementation of EnhancES into QGIS 
 
 The EnhancES is stored as a ZIP-file; click on "Code" (Figure 0.1). 
 <p align="center">
