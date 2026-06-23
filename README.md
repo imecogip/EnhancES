@@ -14,7 +14,7 @@
 
 [Broschüre-EnhancES-2026_05_08__2.pdf](https://github.com/user-attachments/files/29136673/Broschure-EnhancES-2026_05_08__2.pdf)
 
-# Videos (Tutorials, Lectures, training modules, etc. )
+# Videos (Tutorials, Lectures, training modules, etc. ):
 You can find them here now:
 
 https://moodle.ruhr-uni-bochum.de/course/view.php?id=71604
